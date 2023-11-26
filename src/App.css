@@ -1,0 +1,4 @@
+main {
+  height: calc(100vh - 55px - 70.38px - 24px);
+  overflow-y: auto;
+}
